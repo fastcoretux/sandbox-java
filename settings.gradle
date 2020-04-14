@@ -1,0 +1,3 @@
+rootProject.name = 'sandbox-java'
+include 'mapstruct'
+include 'mapstruct:mapstruct-mapping-target'
