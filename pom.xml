@@ -23,6 +23,7 @@
 
     <modules>
         <module>mapstruct</module>
+        <module>quartz</module>
     </modules>
 
     <dependencyManagement>
